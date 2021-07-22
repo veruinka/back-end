@@ -33,3 +33,24 @@ while (i < 5) {
     console.log(i * j);
     i++;
 }
+
+
+
+
+let sk = 3;
+for (let i = 1; i < 3; i++)
+    console.log(i * sk);
+console.log(i);
+
+
+for (let i = 1; i < 3; i++) {
+    let k = 4;
+    console.log(i * sk + k);
+}
+
+
+for (let i = 1; i < 3; i++) {
+    let k = 4;
+    let i = 8;
+    console.log(i * sk + k);
+}
