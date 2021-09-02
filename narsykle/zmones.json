@@ -1,0 +1,17 @@
+[
+  {
+    "vardas": "Jonas",
+    "pavarde": "Jonaitis",
+    "alga": 123.48
+  },
+  {
+    "vardas": "Petras",
+    "pavarde": "Petraitis",
+    "alga": 123.48
+  },
+  {
+    "vardas": "vera",
+    "pavarde": "da",
+    "alga": 5555
+  }
+]
